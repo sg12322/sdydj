@@ -20,6 +20,8 @@ public class CatalogControlller {
     @ResponseBody
     public List<PmsBaseCatalog1> getCatalog1(){
 
+
+
           List<PmsBaseCatalog1> getCatalog1=catalogService.getCatalog1();
         return getCatalog1;
     }
