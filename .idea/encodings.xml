@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/genarator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sdydi-service-util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sdydj-commonutil" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sdydj-manager-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sdydj-manager-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sdydj-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sdydj-user-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sdydj-user-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sdydj-web-util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sdydjparent" charset="UTF-8" />
+  </component>
+</project>

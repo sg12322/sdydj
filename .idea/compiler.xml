@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="sdydj-user-service" />
+        <module name="sdydj-web-util" />
+        <module name="sdydi-service-util" />
+        <module name="sdydj-commonutil" />
+        <module name="sdydj-user" />
+        <module name="sdydj-manager-web" />
+        <module name="sdydj-api" />
+        <module name="genarator" />
+        <module name="sdydj-user-web" />
+        <module name="sdydj-manager-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="genarator" target="1.7" />
+      <module name="sdydi-service-util" target="1.7" />
+      <module name="sdydj-api" target="1.7" />
+      <module name="sdydj-commonutil" target="1.7" />
+      <module name="sdydj-manager-service" target="1.7" />
+      <module name="sdydj-manager-web" target="1.7" />
+      <module name="sdydj-user" target="1.7" />
+      <module name="sdydj-user-service" target="1.7" />
+      <module name="sdydj-user-web" target="1.7" />
+      <module name="sdydj-web-util" target="1.7" />
+      <module name="sdydjparent" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="genarator" options="-parameters" />
+      <module name="sdydi-service-util" options="" />
+      <module name="sdydj-commonutil" options="" />
+      <module name="sdydj-manager-service" options="" />
+      <module name="sdydj-manager-web" options="" />
+      <module name="sdydj-user" options="" />
+      <module name="sdydj-user-service" options="" />
+      <module name="sdydj-user-web" options="" />
+      <module name="sdydj-web-util" options="" />
+      <module name="sdydjparent" options="" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/sdydj-user/pom.xml" />
+        <option value="$PROJECT_DIR$/genarator/pom.xml" />
+        <option value="$PROJECT_DIR$/sdydjparent/pom.xml" />
+        <option value="$PROJECT_DIR$/sdydjapi/pom.xml" />
+        <option value="$PROJECT_DIR$/sdydj-api/pom.xml" />
+        <option value="$PROJECT_DIR$/sdydj-commonutil/pom.xml" />
+        <option value="$PROJECT_DIR$/sdydi-service-util/pom.xml" />
+        <option value="$PROJECT_DIR$/sdydj-web-util/pom.xml" />
+        <option value="$PROJECT_DIR$/sdydj-user-service/pom.xml" />
+        <option value="$PROJECT_DIR$/sdydj-user-web/pom.xml" />
+        <option value="$PROJECT_DIR$/sdydj-manager-service/pom.xml" />
+        <option value="$PROJECT_DIR$/sdydj-manager-web/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_12" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

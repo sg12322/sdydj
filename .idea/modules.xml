@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/genarator/genarator.iml" filepath="$PROJECT_DIR$/genarator/genarator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sdydi-service-util/sdydi-service-util.iml" filepath="$PROJECT_DIR$/sdydi-service-util/sdydi-service-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/sdydj.iml" filepath="$PROJECT_DIR$/.idea/sdydj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sdydj-api/sdydj-api.iml" filepath="$PROJECT_DIR$/sdydj-api/sdydj-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sdydj-commonutil/sdydj-commonutil.iml" filepath="$PROJECT_DIR$/sdydj-commonutil/sdydj-commonutil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sdydj-manager-service/sdydj-manager-service.iml" filepath="$PROJECT_DIR$/sdydj-manager-service/sdydj-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sdydj-manager-web/sdydj-manager-web.iml" filepath="$PROJECT_DIR$/sdydj-manager-web/sdydj-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sdydj-user/sdydj-user.iml" filepath="$PROJECT_DIR$/sdydj-user/sdydj-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sdydj-user-service/sdydj-user-service.iml" filepath="$PROJECT_DIR$/sdydj-user-service/sdydj-user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sdydj-user-web/sdydj-user-web.iml" filepath="$PROJECT_DIR$/sdydj-user-web/sdydj-user-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sdydj-web-util/sdydj-web-util.iml" filepath="$PROJECT_DIR$/sdydj-web-util/sdydj-web-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sdydjparent/sdydjparent.iml" filepath="$PROJECT_DIR$/sdydjparent/sdydjparent.iml" />
+    </modules>
+  </component>
+</project>
